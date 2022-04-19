@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inecek&theme=cobalt2&show_icons=true)
 - 💬 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=inecek&show_icons=true&theme=tokyonight)
-- 📫 How to reach me:
+- 📫 How to reach me:微信：twitterxn Qq:2464796965
 - 😄 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inecek)](https://github.com/anuraghazra/github-readme-stats)
 - ⚡ Fun fact: ...
 -->
